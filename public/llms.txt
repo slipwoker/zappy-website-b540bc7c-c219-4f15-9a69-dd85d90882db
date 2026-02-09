@@ -1,0 +1,53 @@
+# Signature Massage – ALEX – מגע אישי ומרפא — Generative Engine Optimization Map
+
+> A בריאות ורווחה business.
+
+---
+
+## Pages
+
+### Home
+https://signature-massage-alex-b540bc7c.zappy5.app
+
+### Services
+https://signature-massage-alex-b540bc7c.zappy5.app/services
+
+### About
+https://signature-massage-alex-b540bc7c.zappy5.app/about
+
+### Contact
+https://signature-massage-alex-b540bc7c.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://signature-massage-alex-b540bc7c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://signature-massage-alex-b540bc7c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://signature-massage-alex-b540bc7c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Signature Massage – ALEX – מגע אישי ומרפא
+Signature Massage – ALEX – מגע אישי ומרפא is a business in the בריאות ורווחה industry.
+
+## Target Audience
+נשים בלבד
+
+## Industry
+בריאות ורווחה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://signature-massage-alex-b540bc7c.zappy5.app/sitemap.xml
+- **Robots.txt**: https://signature-massage-alex-b540bc7c.zappy5.app/robots.txt

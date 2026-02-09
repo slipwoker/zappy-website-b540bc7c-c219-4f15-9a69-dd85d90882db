@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://signature-massage-alex-b540bc7c.zappy5.app/sitemap.xml
