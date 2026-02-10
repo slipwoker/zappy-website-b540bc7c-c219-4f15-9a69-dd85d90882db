@@ -1,6 +1,4 @@
-# Signature Massage – ALEX – מגע אישי ומרפא — Generative Engine Optimization Map
-
-> A בריאות ורווחה business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -36,15 +34,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Signature Massage – ALEX – מגע אישי ומרפא
-Signature Massage – ALEX – מגע אישי ומרפא is a business in the בריאות ורווחה industry.
-
-## Target Audience
-נשים בלבד
-
-## Industry
-בריאות ורווחה
-
+## About Business
 ---
 
 # Additional Resources
